@@ -164,7 +164,7 @@
 //    delete[]temp;
 //}
 //
-///*удаление водоема из массива*/
+/*удаление водоема из массива*/
 //void deleteReservior(Reservior* res, int& count)
 //{
 //    short index;
@@ -189,7 +189,7 @@
 //        res[i] = temp[i];
 //    delete[]temp;
 //}
-//
+
 ///*выводим в консоль весь массив водоемов*/
 //void printArrayReservior(Reservior* arr, int count)
 //{
